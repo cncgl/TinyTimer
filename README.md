@@ -1,5 +1,6 @@
-# flutter_app2
+# TinyTimer
 
+![スクリーンショット](https://github.com/cncgl/TinyTimer/blob/images/screenshot1.jpg)
 A new Flutter application.
 
 ## Getting Started
