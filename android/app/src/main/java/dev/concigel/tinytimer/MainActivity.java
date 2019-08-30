@@ -1,4 +1,4 @@
-package com.example.flutter_app2;
+package dev.concigel.tinytimer;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

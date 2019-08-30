@@ -1,4 +1,4 @@
-name: flutter_app2
+name: tinytimer
 description: A new Flutter application.
 
 # The following defines the version and build number for your application.
@@ -70,3 +70,9 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_foreground: "assets/icon/adaptive_icon.png"
+  adaptive_icon_background: "#FFFFFF"
